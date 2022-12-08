@@ -6,3 +6,4 @@ Ali Ibrahim
 I am engineer of intellegent system 
 Languages and Tools:Multisim,Matlab,Matcad,HTML5,CSS3,JavaScrippt,Adobe Photoshop
 Email:Alik.ibrahim2015@gmail.com
+Languages:Arabic,Russian,English
