@@ -1,4 +1,6 @@
-<h1 align="center">Hi I am Ali Ibrahim<h1>
+<h1 align="center">Hi I am Ali Ibrahim </h1>
+Education:
+
 
 <!--
 **Alik-1234/Alik-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
