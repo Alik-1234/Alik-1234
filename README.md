@@ -1,8 +1,8 @@
 <h1 align="center">Hi I am Ali Ibrahim </h1>
 <h3>Education:</h3>
--Diploma in Intelligent Systems<br>
+<p>-Diploma in Intelligent Systems<br>
 -Master's in Automation <br>
--PhD in Robotics
+-PhD in Robotics</p>
 
 <h3>Technology Stack:</h3>
 
